@@ -190,4 +190,3 @@ Release, development, and sources JARs are written to `build/libs`. The installa
 ## License
 
 [MIT](LICENSE)
-

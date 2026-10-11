@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "${modId}",
+    "name": "${modName}",
+    "description": "Modern block-light rules for natural hostile spawning in GTNH, with an optional matching NEI F7 overlay.",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["ModernMobLighting-GTNH contributors"],
+    "credits": "Built for GT New Horizons 2.9.0-beta-3.",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": false
+  }]
+}
